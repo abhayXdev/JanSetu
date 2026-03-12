@@ -18,12 +18,16 @@
 
 <br />
 
-## Repositories
+## 📌 Important Note to Judges
 
-| Architecture | Source Code |
+> This repository serves as a central administrative hub for our hackathon submission since the portal only accepts a single URL. **Please click the direct links below to navigate to our actual project code.**
+
+## 📂 Source Code Repositories
+
+| Architecture | Direct Access Link |
 | :--- | :--- |
-| **Frontend** | [CityShakti-Frontend](https://github.com/abhayXdev/CityShakti-Frontend) |
-| **Backend** | [CityShakti-Backend](https://github.com/abhayXdev/CityShakti-Backend) |
+| **Frontend Repository** | 👉 **[Click here to view Frontend Code](https://github.com/abhayXdev/CityShakti-Frontend)** |
+| **Backend Repository** | 👉 **[Click here to view Backend Code](https://github.com/abhayXdev/CityShakti-Backend)** |
 
 <br />
 
